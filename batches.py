@@ -1,0 +1,1 @@
+NUM_PROC = ['HOURLY']

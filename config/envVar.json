@@ -1,0 +1,20 @@
+{
+    "DEV_AZURE_WEST" : 
+    {
+        "CONFIG_FILE" :"config/tero_edl_ingest.json",
+        "CONTROL_TABLE":"control/INGEST.csv",
+        "TGT_CON_NAME":"DATALAKE_DB",
+        "DEFAULT_WH":"COMPUTE_WH",
+        "DEFAULT_DB":"DATALAKE_DB",
+        "DEFAULT_SCHEMA":"TEST_DB"
+    },
+    "APISERO" : 
+    {
+        "CONFIG_FILE" :"config/tero_edl_ingest.json",
+        "CONTROL_TABLE":"control/INGEST.csv",
+        "TGT_CON_NAME":"DATALAKE_DB",
+        "DEFAULT_WH":"COMPUTE_WH",
+        "DEFAULT_DB":"DATALAKE_DB",
+        "DEFAULT_SCHEMA":"TEST_DB"
+    }
+}
